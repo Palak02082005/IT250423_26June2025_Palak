@@ -1,6 +1,7 @@
 # IT250423_26June2025_Palak
 
 **Here i am going to give the description about the topics which i have learn from the given video:-**
+...
 
 1. The first thing i learn is how we can create a DOS command Link on our desktop by using shortcuts.
 2. Then i create a folder name as (work) in my document folder.
