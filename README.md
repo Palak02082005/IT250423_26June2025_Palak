@@ -71,6 +71,7 @@ Page File Location(s):         C:\pagefile.sys
 Domain:                        networksupport.local
 Logon Server:                  \\SRV01
    
+  
    **The website from where i get the information that, where we can find the name of our PC is here:-**
    [https://answers.microsoft.com/en-us/windows/forum/all/find-the-name-of-my-computer/12f6a4cc-845d-4163-aae8-ef0223f3104a]
 
